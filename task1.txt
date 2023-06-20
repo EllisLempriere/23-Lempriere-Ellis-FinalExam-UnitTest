@@ -1,0 +1,9 @@
+Steps for completing tasks:
+    1-Download project files and set up project
+    2-Create new StringCalculatorTest class
+    3-Create a test case for new requirement
+    4-Ensure test case from step 3 is failing
+    5-Write functionality in StringCalculator class to make test case from step 3 pass
+    6-Repeat steps 3-5 until both new requirements are implemented and fully tested
+    7-Link remote to local
+    8-Commit and push to remote
